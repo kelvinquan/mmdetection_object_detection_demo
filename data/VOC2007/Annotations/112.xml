@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>112.jpg</filename>
+	<path>C:\Users\gs3ip\Desktop\Kelvin_Test\mmdetection_object_detection_demo-master\data\VOC2007\ImageSets\112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>120</ymin>
+			<xmax>777</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

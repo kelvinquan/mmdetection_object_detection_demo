@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>100.jpg</filename>
+	<path>C:\Users\gs3ip\Desktop\Kelvin_Test\mmdetection_object_detection_demo-master\data\VOC2007\ImageSets\100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jeep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>27</ymin>
+			<xmax>764</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
